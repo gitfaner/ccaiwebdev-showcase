@@ -23,9 +23,13 @@ Our platform is designed to create and manage cartoon characters with advanced A
 
 ## 🔗 Related Resources
 
-- [CartoonCharacters.AI](https://cartooncharacters.ai) - Our AI partner for character generation
-- [Documentation](./docs) - Detailed feature documentation
-- [Demo Gallery](./demo) - Visual demonstrations
+- 🎨 [CartoonCharacters.AI](https://cartooncharacters.ai) - Create and customize unique cartoon characters with AI
+- 📚 [Documentation](./docs) - Detailed feature documentation
+- 🖼️ [Demo Gallery](./demo) - Visual demonstrations
+
+## 🌐 Try it Out!
+
+Visit [CartoonCharacters.AI](https://cartooncharacters.ai) to experience the power of AI-driven cartoon character creation!
 
 ## 📸 Gallery
 
